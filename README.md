@@ -66,6 +66,7 @@ Currently, I’m also working on my **startup project eVeggies** 🥦🍅 — a 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chandru-eswaran-d)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChandruEswaran)
+[![Netlify](https://img.shields.io/badge/Netlify-Follow-178e8b?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/chandrueswaran/projects)
 [![Email](https://img.shields.io/badge/Email-chandrudakshina@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrudakshina@gmail.com)
 
 </div>
