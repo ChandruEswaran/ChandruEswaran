@@ -13,7 +13,7 @@
   
 
 I'm a **Python Full Stack Developer trainee** and **Cloud Computing learner**, passionate about building **real-world applications**, exploring **AWS Cloud**, and sharing my learning journey.  
-Currently, I’m also working on my **startup project eVeggies** 🥦🍅 — a platform for online vegetable & fruit delivery. 
+Currently, I’m planning for start-ups in tech.
 
 
 - 🔭 Currently learning **AWS Cloud & DevOps practices**  
