@@ -12,7 +12,7 @@
 ##  🚀 About Me
   
 
-I'm a **Python Full Stack Developer trainee** and **Cloud Computing learner**, passionate about building **real-world applications**, exploring **AWS Cloud**, and sharing my learning journey.  
+I'm a **Python Full Stack Developer** and **AWS Cloud Practitioner**, passionate about building **real-world applications**, exploring **Python / Cloud**, and sharing my learning journey.  
 Currently, I’m planning for start-ups in tech.
 
 
